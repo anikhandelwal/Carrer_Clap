@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43431624144",
+    "project_id": "carrer-clap",
+    "storage_bucket": "carrer-clap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43431624144:android:cdf5bb53cd6e4a4d13cdd5",
+        "android_client_info": {
+          "package_name": "com.ani.carrerclap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43431624144-a3m9ikdbksq0u2hjkmo0b72vlghctka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVJ_U7uYrt18S0ljRbiXTheCdAqzfYu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43431624144-a3m9ikdbksq0u2hjkmo0b72vlghctka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
